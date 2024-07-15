@@ -1,0 +1,6 @@
+--->
+1. clone this repository from github
+2. npm i //This install all the dependencies used
+3. npm run db:create // To create our database
+4. npm run migrate //to run create tables into our database
+5. npm run seed:all // to seed data into our tables
